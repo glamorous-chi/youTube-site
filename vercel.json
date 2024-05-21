@@ -1,5 +1,16 @@
 {
-    "rewrites": [
-        {"source": "/(.*)", "destination": "/"}
+    "version": 2,
+    "builds": [
+      {
+        "src": "youTube.html",
+        "use": "@vercel/static"
+      }
+    ],
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "/youTube.html"
+      }
     ]
-}
+  }
+  
