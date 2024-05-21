@@ -4,6 +4,10 @@
       {
         "src": "youTube.html",
         "use": "@vercel/static"
+      },
+      {
+        "src": "youTube.css",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
