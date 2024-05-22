@@ -8,7 +8,8 @@ Thank you for checking out my Repository
 
 ## Project Description
 
-This project is a YouTube Home page built using just HTML, and CSS for the styling following a tutorial by SupersimpleDev on YouTube [Supersimpledev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=8373s). 
+This project is a YouTube Home page built using just HTML, and CSS for the styling, following a tutorial by SupersimpleDev on YouTube.  
+Check out the tutorial here [SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=8373s). 
 
 
 ## Built with
